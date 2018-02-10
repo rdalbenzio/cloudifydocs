@@ -1,5 +1,5 @@
-# BIG-IP ELK Server Install
-Setup for elk Server setup for BIG-IP logging
+# Cloudify Training Start
+Go to UDF, open Courses and Find the course called Cloudify Lab Training. Then start the Course to have an instance of a Training. 
 
 # Base Install
 install completed on LXC Ubuntu 16.04
